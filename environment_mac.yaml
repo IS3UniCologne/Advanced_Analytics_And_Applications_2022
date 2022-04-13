@@ -1,0 +1,20 @@
+name: AAA
+channels:
+  - conda-forge
+  - defaults
+  - apple
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - notebook
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - geopandas
+  - shapely
+  - ipython
+  - tensorflow-deps
+  - pip:
+    - tensorflow-macos
+    - tensorflow-metal
