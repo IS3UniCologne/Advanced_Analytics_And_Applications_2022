@@ -16,5 +16,6 @@ dependencies:
   - ipython
   - tensorflow-deps
   - pip:
+    - h3
     - tensorflow-macos
     - tensorflow-metal
