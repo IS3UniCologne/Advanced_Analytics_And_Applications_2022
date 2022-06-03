@@ -1,0 +1,13 @@
+
+
+
+We need these versions:
+
+
+# pip install flask=0.11
+# pip install python-engineio==2.0.0
+# pip install python-socketio==1.8.0
+
+
+1) cd ~/sciebo/Teaching/Master/AAA/SS2021/2_Workshops/09/Code
+2) source av/bin/activate
