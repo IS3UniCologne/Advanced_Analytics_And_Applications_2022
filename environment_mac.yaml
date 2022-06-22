@@ -19,3 +19,4 @@ dependencies:
     - h3
     - tensorflow-macos
     - tensorflow-metal
+    - gym[atari]==0.21.0

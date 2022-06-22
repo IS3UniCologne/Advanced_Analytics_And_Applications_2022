@@ -16,3 +16,4 @@ dependencies:
   - pip:
     - h3
     - tensorflow
+    - gym[atari]
